@@ -6,7 +6,7 @@ int main() {
 
     };
     enum dni dzien_tygodnia;
-        bool czy_byl_obecny = false;
+        bool czy_byl_obecny = true;
 
         dzien_tygodnia = so;
         printf ("wyniki: %i\n", dzien_tygodnia);
